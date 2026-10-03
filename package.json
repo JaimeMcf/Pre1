@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://JaimeMcf.github.io/Pre",
+  "homepage": "https://JaimeMcf.github.io/Pre1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
