@@ -1,0 +1,67 @@
+
+
+.botonPrincipal { 
+
+
+background-color: #ffffa4;
+padding: 10px; 
+border: none;
+border-radius: 3px;
+cursor: pointer
+
+
+
+}
+
+.botonPrincipal:hover { 
+
+background-color: #0056b3;
+
+}
+
+
+.grid { 
+
+    background-color: orange;
+    padding: 10px;
+
+
+}
+
+
+.imagen { 
+
+width:  300px;
+height:  350px;
+object-fit:  cover;
+
+}
+
+
+.contenedor { 
+
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(200px, 1rd));
+gap: 16px;
+padding: 10px;
+
+
+
+}
+
+
+.tarjeta { 
+background-color: #a78;
+border: 1px, solid #ea2875;
+overflow: hidden;
+box-shadow: 02px 4px rgba(0,0,0,0,05);
+
+}
+
+.titulo { 
+
+font-size: 0.9rem;
+color: red; 
+text-align: center;
+
+}

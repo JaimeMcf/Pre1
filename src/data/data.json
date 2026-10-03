@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "nombre": "Relatos de terror y misterio",
+    "precio": 12000,
+    "autor": "Diego Leandro Couselo",
+    "imagen": "1.jpg",
+    "descripcion": "relatos de miedo que llegan a lo profundo de la mente."
+  },
+  {
+    "id": 2,
+    "nombre": "El secreto de Jaime Mcfill - El interno 515",
+    "precio": 12000,
+    "autor": "Diego Leandro Couselo",
+    "imagen": "2.jpg",
+    "descripcion": "La locura y la surrealidad en un solo momento."
+  },
+  {
+    "id": 3,
+    "nombre": "el Coleccionista",
+    "precio": 12500,
+    "autor": "Diego Leandro Couselo",
+    "imagen": "3.jpg",
+    "descripcion": "bienvenido al mundo de los paranormal"  },
+   {  
+
+   "id": 4,
+    "nombre": "Oco, Além",
+    "precio": 12500,
+    "autor": "Diego Leandro Couselo",
+    "imagen": "4.png",
+    "descripcion": "Un mundo paralelo y la perdida de la humanidad"
+  },
+
+
+   {  
+
+   "id": 5,
+    "nombre": "Experimento Muerte",
+    "precio": 12500,
+    "autor": "Diego Leandro Couselo",
+    "imagen": "5.jpg",
+    "descripcion": "Un siniestro experimento de muertos"
+  },
+
+   {  
+
+   "id": 6,
+    "nombre": "Los siameses Berthol",
+    "precio": 12500,
+    "autor": "Diego Leandro Couselo",
+    "imagen": "7.jpg",
+    "descripcion": "El terror en una bestia del infierno"
+  },
+
+
+   {  
+
+   "id": 7,
+    "nombre": "La Grieta",
+    "precio": 12500,
+    "autor": "Diego Leandro Couselo",
+    "imagen": "8.jpg",
+    "descripcion": "El universo se choca con los poderes de una diosa"
+  },
+
+  {  
+
+   "id": 8,
+    "nombre": "La Grieta",
+    "precio": 12500,
+    "autor": "Diego Leandro Couselo",
+    "imagen": "8.png",
+    "descripcion": "El universo se choca con los poderes de una diosa"
+  },
+
+{  
+
+   "id": 9,
+    "nombre": "Noir, El saqueador y el reloj de Léviatan",
+    "precio": 12500,
+    "autor": "Diego Leandro Couselo",
+    "imagen": "9.jpg",
+    "descripcion": "Un héreo al mejor estilo indiana Jones"
+  }, 
+
+  {  
+
+   "id": 10,
+    "nombre": "El viaje de Belu y Athos",
+    "precio": 12500,
+    "autor": "Diego Leandro Couselo",
+    "imagen": "10.png",
+    "descripcion":  "En un mundo despiadado de fantasía dos personas deciden realiAr un viaje y sobrevivir"
+  }
+
+
+]
+
